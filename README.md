@@ -1,11 +1,10 @@
 # Network Intrusion Detection and Prevention System (NIDPS)
-## Lab Assignment 3 - System and Network Security (CS5.470)
-### Team Number: 25
+
 
 ---
 
 ## Overview
-This project implements a Network-based Intrusion Detection and Prevention System (NIDPS) as per the requirements of Lab Assignment 3 for the course CS5.470. The system monitors TCP network traffic, detects malicious activities using signature-based and anomaly-based techniques, logs intrusions, and dynamically blocks threats using `iptables`. A command-line interface (CLI) provides management and monitoring capabilities.
+This project implements a Network-based Intrusion Detection and Prevention System (NIDPS).The system monitors TCP network traffic, detects malicious activities using signature-based and anomaly-based techniques, logs intrusions, and dynamically blocks threats using `iptables`. A command-line interface (CLI) provides management and monitoring capabilities.
 
 ---
 
